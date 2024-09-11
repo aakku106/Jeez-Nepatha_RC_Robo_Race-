@@ -121,3 +121,7 @@ Thanks to Nepathya College for organizing the competition.
   - Participation cost was given to every teems participating [ to cover up the cost of making, designing car ], but in our case cost was less than 2000, SO IT WAS  WIN WIN SITURATION 😚
   - we removed outer cover of car in last minutes of race for better speed and less weight since we had obstacle like: a dead jump ☠️ , two big plates of water 🤣, narrow wodden block, teen 🥲 and meny more
   - Project engineered by @aakku106 / Adarasha Gaihre
+### I will be adding some pic of car and I also wanna share the design behind palcement of motor, material used to attatch motor to Chassis and many more, stay tuned 🦚💙
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=aakku106&label=Profile%20Views&icon=5&pretty=true" />
+</a>
