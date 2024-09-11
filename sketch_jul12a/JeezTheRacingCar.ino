@@ -3,7 +3,7 @@
 
 // Network credentials
 const char* ssid = "aakku";
-const char* password = "@ccn1069";
+const char* password = "@ccn1069"; // you can change SSID and Password...
 
 ESP8266WebServer server(80);
 
