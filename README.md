@@ -123,5 +123,5 @@ Thanks to Nepathya College for organizing the competition.
   - Project engineered by @aakku106 / Adarasha Gaihre
 ### I will be adding some pic of car and I also wanna share the design behind palcement of motor, material used to attatch motor to Chassis and many more, stay tuned 🦚💙
 <a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=aakku106&label=Profile%20Views&icon=5&pretty=true" />
+  <img src="https://visitcount.itsvg.in/api?id=Jeez&label=Views&icon=3&pretty=true" />
 </a>
