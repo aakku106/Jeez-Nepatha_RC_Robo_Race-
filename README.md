@@ -64,8 +64,8 @@ The web server hosts a simple UI for car control, featuring directional buttons 
 The motors are controlled using digitalWrite for direction and analogWrite for speed control through Pulse Width Modulation (PWM).</br></br>
 - Custom Movement Logic:</br>
 
-- Real-time response for left and right turns only while pressing the buttons.</br>
-- Similar hold-to-move logic for forward and backward movement.</br></br>
+  Real-time response for left and right turns only while pressing the buttons.</br>
+  Similar hold-to-move logic for forward and backward movement.</br></br>
 
 ---
 Key Code Snippets:</br>
